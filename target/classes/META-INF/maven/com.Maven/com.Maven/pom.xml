@@ -26,6 +26,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>src\test\resources\testing.xml</suiteXmlFile>
+						<suiteXmlFile>src\test\resources\MavenTest.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
